@@ -12,7 +12,7 @@
 
 ## A little more about me...  
 
-- :man_student: I am currently a Ph.D. student at [The University of Edinburgh](https://ed.ac.uk/). 
+- :man_student: I am currently a Ph.D. student at [The University of Edinburgh](https://www.ed.ac.uk/). 
 - :four_leaf_clover: Fun fact: I learn slow, but I never stop. 
 - :dart: I am currently working on building my personal blog.
 - 📫 How to reach me: yuchen.mu@ed.ac.uk
