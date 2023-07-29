@@ -5,6 +5,7 @@
 ## A little more about me...  
 
 <img width="400" align="right" src="asset/workshop_hanasaku.gif" /> 
+
 - :man_student: I am currently a Ph.D. student at [The University of Edinburgh](https://www.ed.ac.uk/). 
 - :four_leaf_clover: I learn slow, but I never stop. 
 - :cherry_blossom: Fun fact: The GIF on the right is from the [MAD](https://www.bilibili.com/video/BV1XN411Z743/?spm_id_from=333.999.0.0) I made.
