@@ -1,9 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=420&lines=Hi%2C+I+am+Yuchen.)](https://git.io/typing-svg)
 
 
-<img width="380" align="right" alt="Github"
-src="asset/workshop_hanasaku.gif" 
-/> 
+<img width="380" align="right" src="asset/workshop_hanasaku.gif" /> 
 
 ## A little more about me...  
 
