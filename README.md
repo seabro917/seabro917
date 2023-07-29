@@ -1,17 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=420&lines=Hi%2C+I+am+Yuchen.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=420&lines=Hi%2C+I+am+Yuchen!)](https://git.io/typing-svg)
 
 
-<img width="400" align="right" src="asset/workshop_hanasaku.gif" /> 
+
+<figure>
+  <img width="400" align="right" src="asset/workshop_hanasaku.gif" /> 
+  <figcaption>This is from the [MAD](https://www.bilibili.com/video/BV1XN411Z743/?spm_id_from=333.999.0.0) I made :cherry_blossom:</figcaption>
+</figure>
+
+<!-- <img width="400" align="right" src="asset/workshop_hanasaku.gif" />  -->
+
 
 ## A little more about me...  
 
 - :man_student: I am currently a Ph.D. student at [The University of Edinburgh](https://ed.ac.uk/). 
-- :strawberry: Fun fact: I learn slow, but I never stop. 
+- :four_leaf_clover: Fun fact: I learn slow, but I never stop. 
 - :dart: I am currently working on building my personal blog.
 - 📫 How to reach me: yuchen.mu@ed.ac.uk
 - :video_game: I love playing Dota2 and Apex. Add me on [steam](https://steamcommunity.com/profiles/76561198276677155)!
 - :space_invader: I am a huge fan of Anime.
-- :hearts: My favourite anime is [CLANNAD After Story](https://www.bilibili.com/video/BV18x411c7KQ/?spm_id_from=333.337.search-card.all.click&vd_source=dabcffd1cd0c95a73e0d13f61da7ae44).
+- :hearts: My favourite anime is [CLANNAD~After Story~](https://www.bilibili.com/video/BV18x411c7KQ/?spm_id_from=333.337.search-card.all.click&vd_source=dabcffd1cd0c95a73e0d13f61da7ae44).
 
  <em><b>Dream as if you will live forever and live as if you will die today.</b></em>
  
