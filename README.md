@@ -2,7 +2,7 @@
 
 
 
-<figure>
+<figure  class="inline end" markdown>
   <img width="400" align="right" src="asset/workshop_hanasaku.gif" /> 
   <figcaption>This is from the [MAD](https://www.bilibili.com/video/BV1XN411Z743/?spm_id_from=333.999.0.0) I made :cherry_blossom:</figcaption>
 </figure>
@@ -17,7 +17,7 @@
 - :dart: I am currently working on building my personal blog.
 - 📫 How to reach me: yuchen.mu@ed.ac.uk
 - :video_game: I love playing Dota2 and Apex. Add me on [steam](https://steamcommunity.com/profiles/76561198276677155)!
-- :space_invader: I am a huge fan of Anime.
+- :whale2: I am a huge fan of Anime.
 - :hearts: My favourite anime is [CLANNAD\~After Story\~](https://www.bilibili.com/video/BV18x411c7KQ/?spm_id_from=333.337.search-card.all.click&vd_source=dabcffd1cd0c95a73e0d13f61da7ae44).
 
  <em><b>Dream as if you will live forever and live as if you will die today.</b></em>
