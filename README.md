@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=420&lines=Hi%2C+I+am+Yuchen!)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=420&lines=Hi%2C+I+am+Yuchen!)](https://git.io/typing-svg) -->
 
 
 
