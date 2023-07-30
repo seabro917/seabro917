@@ -8,7 +8,7 @@
 
 - :man_student: I am currently a Ph.D. student at [The University of Edinburgh](https://www.ed.ac.uk/). 
 - :four_leaf_clover: I learn slow, but I never stop. 
-- :cherry_blossom: Fun fact: The GIF on the right is from the [MAD](https://www.bilibili.com/video/BV1XN411Z743/?spm_id_from=333.999.0.0) I made.
+- :cherry_blossom: Fun fact: The GIF on the right is from the [MAD](https://www.bilibili.com/video/BV1XN411Z743/?spm_id_from=333.999.0.0) I produced.
 - :dart: I am currently working on building my personal blog.
 - 📫 How to reach me: yuchen.mu@ed.ac.uk
 - :video_game: I love playing Dota2 and Apex. Add me on [steam](https://steamcommunity.com/profiles/76561198276677155)!
