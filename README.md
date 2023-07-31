@@ -2,7 +2,7 @@
 
 
 
-## A little more about me...  
+## A little more about me...  &emsp&emsp&emsp&emsp&emsp&emsp&emsp&emsp&emsp&emsp ─=≡Σ\(\(( つ•̀ω•́)つ
 
 <img width="400" align="right" src="asset/workshop_hanasaku.gif" /> 
 
