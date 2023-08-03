@@ -4,7 +4,7 @@
 
 ## A little more about me...  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ─=≡Σ\(\(( つ•̀ω•́)つ
 
-<img width="400" align="right" src="asset/workshop_hanasaku_compressed.gif"/> 
+<img width="400" align="right" src="asset/workshop_hanasaku_compressed_2.gif"/> 
 <!-- <img width="400" align="right" src="asset/workshop_hanasaku.gif"/>  -->
 
 - :man_student: I am currently a Ph.D. student at [The University of Edinburgh](https://www.ed.ac.uk/). 
