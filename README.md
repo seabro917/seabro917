@@ -28,4 +28,4 @@
 
 
 
-![:name](https://count.getloli.com/get/@:name?theme=rule34)
+![:name](https://count.getloli.com/get/@seabro917?theme=rule34)
